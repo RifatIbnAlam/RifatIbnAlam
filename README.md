@@ -38,12 +38,10 @@ I'm an **Accessible Materials Coordinator** with a background in data analytics 
 
         | Project | Description | Tech |
         |--------|-------------|------|
+        | [F1 Strategy Hub](https://github.com/RifatIbnAlam/f1-strategy-hub) | Formula 1 race strategy analysis tool | JavaScript |
         | [Canvas BulkFlow](https://github.com/RifatIbnAlam/Canvas-Bulkflow) | Automation tool for bulk file operations in Canvas LMS | Python, Jupyter |
-        | [Music Genre Prediction](https://github.com/RifatIbnAlam/DeepLearning-Music-Genre-Prediction) | Deep learning classifier for music genres using GTZAN dataset | Python, TensorFlow, Librosa |
         | [Stock Price Forecasting](https://github.com/RifatIbnAlam/DeepForecasting-Stock-Prediction-Data) | LSTM time series forecasting for Microsoft & Bitcoin | Python, Keras, Pandas |
-        | [Crypto & Elections](https://github.com/RifatIbnAlam/Crypto-Election-Data) | Event study on U.S. election impact on crypto (2016-2024) | Python |
-        | [HR Attrition Analysis](https://github.com/RifatIbnAlam/HR-Attrition-Data) | Tableau dashboard analyzing employee attrition drivers | Tableau |
-        | [Portfolio Website](https://github.com/RifatIbnAlam/Rifat-Portfolio) | Personal portfolio deployed on GitHub Pages | HTML, CSS, JS |
+        | [Binance Event Study](https://github.com/RifatIbnAlam/Binance-Event-Study-Master-Dataset-) | Master dataset for event studies on Binance crypto prices | Python |
 
         ---
 
