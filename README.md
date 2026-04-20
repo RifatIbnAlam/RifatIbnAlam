@@ -41,7 +41,7 @@ I'm an **Accessible Materials Coordinator** with a background in data analytics 
         | [F1 Strategy Hub](https://github.com/RifatIbnAlam/f1-strategy-hub) | Formula 1 race strategy analysis tool | JavaScript |
         | [Canvas BulkFlow](https://github.com/RifatIbnAlam/Canvas-Bulkflow) | Automation tool for bulk file operations in Canvas LMS | Python, Jupyter |
         | [Stock Price Forecasting](https://github.com/RifatIbnAlam/DeepForecasting-Stock-Prediction-Data) | LSTM time series forecasting for Microsoft Stock | Python, Keras, Pandas |
-        | [Binance Event Study](https://github.com/RifatIbnAlam/Binance-Event-Study-Master-Dataset-) | Spillover effects of Binance incident on financial markets | Python |
+        | [Binance Event Study](https://github.com/RifatIbnAlam/Binance-Event-Study-Master-Dataset-) | Spillover effects of Binance incident on financial markets | Python, Keras, Pandas |
 
         ---
 
