@@ -12,9 +12,9 @@ I'm an **Accessible Materials Coordinator** with a background in data analytics 
 
 - Currently working as an **Accessible Materials Coordinator** at Utah State University
 - - Interested in **process automation**, workflow optimization, and data-driven decision making
-  - - Experienced in **data analytics**, financial research, and machine learning
+  - - Experienced in **data analytics**, business intelligence, and machine learning
     - - Building tools that automate tedious processes and improve operational efficiency
-      - - Open to opportunities in **process automation** and **data analytics**
+      - - Open to opportunities in **process automation** and **data/ business analytics**
        
         - ---
 
