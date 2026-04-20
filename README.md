@@ -47,8 +47,6 @@ I'm an **Accessible Materials Coordinator** with a background in data analytics 
 
         ## GitHub Stats
 
-        ![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifatIbnAlam&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
         ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RifatIbnAlam&layout=compact&theme=dark&hide_border=true)
 
         ---
